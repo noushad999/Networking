@@ -44,7 +44,7 @@ Networking is the practice of connecting computers and devices to share resource
 - Learn CIDR, subnet masks, and basic subnetting techniques.
 
 📘 *Recommended Resources*:
-- [Computer Networking: Principles, Protocols, and Practice](https://inl.info.ucl.ac.be/CNP3)
+- [Computer Networking: Principles, Protocols, and Practice]([https://inl.info.ucl.ac.be/CNP3](https://open.umn.edu/opentextbooks/textbooks/352))
 - *Networking All-in-One For Dummies* by Doug Lowe.
 
 ---
